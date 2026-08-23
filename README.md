@@ -2,7 +2,7 @@
 
 > Paste raw git commit messages and get a categorized, user-facing changelog in Markdown.
 
-**[Live demo](https://su-changelogai.vercel.app)**
+**[Live demo](https://changelogai-mlx.vercel.app)**
 
 Release notes usually get written by hand because raw commit logs are full of ticket numbers, merge noise, and messages that only mean something to the person who wrote them. ChangelogAI takes that log — commit subjects or PR titles — and rewrites each line from the user's perspective, merging duplicates and dropping internal jargon. Entries are grouped under fixed emoji categories (New Features, Bug Fixes, Improvements, Documentation, Breaking Changes), and empty categories are omitted.
 
@@ -31,4 +31,4 @@ Requires `GROQ_API_KEY` in `.env.local` (see `.env.example`).
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
